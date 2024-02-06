@@ -8,7 +8,7 @@ I am a frontend developer. I started teaching myself web development after in or
 
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [Website](http://philanincube.co.za)
-* ✉️  You can contact me at [philani@athenamedia.co.za](mailto:philani@athenamedia.co.za)
+* ✉️  You can contact me at [ncbphi001@gmail.com](mailto:ncbphi001@gmail.com)
 * 🧠  I'm learning Python & ThreeJS
 
 ### Skills
